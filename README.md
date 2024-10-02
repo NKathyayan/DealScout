@@ -770,9 +770,19 @@ export const formatNumber = (num: number = 0) => {
 
 ## <a name="links">🔗 Links</a>
 
+
 Assets used in the project are [here](https://drive.google.com/file/d/1v6h993BgYX6axBoIXFbZ9HQAgqbR4PSH/view?usp=sharing)
 
-![Alt text](./WhatsApp%20Image%202024-10-02%20at%2016.50.35_8e447aa1.jpg)
+# App Images
 
+<p align="center">
+  <img src="./WhatsApp%20Image%202024-10-02%20at%2016.50.35_8e447aa1.jpg" alt="Image 1" width="400" />
+  <img src="./WhatsApp%20Image%202024-10-02%20at%2016.50.36_d8b328ff.jpg" alt="Image 2" width="400" />
+</p>
+
+<p align="center">
+  <img src="./WhatsApp%20Image%202024-10-02%20at%2016.50.38_128853ed.jpg" alt="Image 3" width="400" />
+  <img src="./WhatsApp%20Image%202024-10-02%20at%2016.50.38_0871b7e2.jpg" alt="Image 4" width="400" />
+</p>
 
 

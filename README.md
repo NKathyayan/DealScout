@@ -772,7 +772,6 @@ export const formatNumber = (num: number = 0) => {
 
 Assets used in the project are [here](https://drive.google.com/file/d/1v6h993BgYX6axBoIXFbZ9HQAgqbR4PSH/view?usp=sharing)
 
-![Alt text](https://imgur.com/a/3GX1Wpt)
 
 
 

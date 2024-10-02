@@ -772,6 +772,7 @@ export const formatNumber = (num: number = 0) => {
 
 Assets used in the project are [here](https://drive.google.com/file/d/1v6h993BgYX6axBoIXFbZ9HQAgqbR4PSH/view?usp=sharing)
 
+![Alt text](./WhatsApp%20Image%202024-10-02%20at%2016.50.35_8e447aa1.jpg)
 
 
 
